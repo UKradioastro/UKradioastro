@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UKradioastro.
+- 👋 Hi, we are @UKradioastro.
 - This GitHub account has been set up by The UK Radio Astronomy Association .
 - 👀 We are interested in python coding for radio astronomy projects.
 - 💞️ We are looking to collaborate on anything radio astronomy related.
